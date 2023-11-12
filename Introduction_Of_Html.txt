@@ -1,0 +1,15 @@
+HTML is the standard markup language for Web pages.
+With HTML you can create your own Website.
+
+HyperText Markup Language (HTML) is the basic scripting
+language used by web browsers to render pages on the world
+wide web. HyperText allows a user to click a link and be
+redirected to a new page referenced by that link
+
+How to start HTML code?
+All HTML documents must start with a document type declaration: <!DOCTYPE html>
+The HTML document itself begins with <html> and ends with </html> 
+The visible part of the HTML document is between <body> and </body>
+
+The first version of HTML was written by Tim Berners-Lee in 1993.
+Since then, there have been many different versions of HTML
